@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "INTERSHIPTEST", "INTERSHIPTEST\INTERSHIPTEST.csproj", "{D7400B27-D83D-4E0F-BBE3-13EC76F64CFA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "INTERSHIPTEST", "INTERSHIPTEST\INTERSHIPTEST.csproj", "{588110F5-AA65-4471-B69A-D5BEA4D572A3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{D7400B27-D83D-4E0F-BBE3-13EC76F64CFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D7400B27-D83D-4E0F-BBE3-13EC76F64CFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D7400B27-D83D-4E0F-BBE3-13EC76F64CFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D7400B27-D83D-4E0F-BBE3-13EC76F64CFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{588110F5-AA65-4471-B69A-D5BEA4D572A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{588110F5-AA65-4471-B69A-D5BEA4D572A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{588110F5-AA65-4471-B69A-D5BEA4D572A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{588110F5-AA65-4471-B69A-D5BEA4D572A3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

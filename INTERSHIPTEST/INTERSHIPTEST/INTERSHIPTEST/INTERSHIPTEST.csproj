@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{D7400B27-D83D-4E0F-BBE3-13EC76F64CFA}</ProjectGuid>
+    <ProjectGuid>{588110F5-AA65-4471-B69A-D5BEA4D572A3}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>INTERSHIPTEST</RootNamespace>
@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Institutions.cs" />
     <Compile Include="Internship.cs" />
     <Compile Include="Knowledge.cs" />
     <Compile Include="Program.cs" />

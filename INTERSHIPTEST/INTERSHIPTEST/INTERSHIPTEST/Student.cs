@@ -1,9 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
-using INTERSHIPTEST;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
-
-namespace InternshipTest.Person
+namespace INTERSHIPTEST
 {
     public class Student
     {
